@@ -1,3 +1,4 @@
+%
 function [mse,a,b,c]=MyBPNN(train_inp,train_out)
 %---------------------------------------------------------
 % MATLAB neural network backprop code
